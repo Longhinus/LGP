@@ -1,5 +1,13 @@
 # LGP: A Lightweight Game Packager
 
+## Building
+```
+mkdir build && cd build
+
+cmake ..
+make
+```
+
 ## Standalone Usage
 
 #### Creating an archive
