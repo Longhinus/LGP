@@ -43,5 +43,5 @@ Texture::Wall = archive.get(5); //You can work with indexes instead of names (co
 
 ## Limitations
 * Only supports files with the UNIX type: **file**.
-* Supports up to 4 GiB ($2^{32}$ bytes) per files.
-* Supports up to archives of size 16TiB ($2^{64}$ bytes).
+* Supports up to 4 GiB (2^32 bytes) per files.
+* Supports up to archives of size 16TiB (2^64 bytes).
